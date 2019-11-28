@@ -11,5 +11,5 @@ GET /save?q=<data>
 ### Run
 ```
 $ export FLASK_APP=qstore.py
-$ flsk run --host=0.0.0.0
+$ flask run --host=0.0.0.0
 ```
